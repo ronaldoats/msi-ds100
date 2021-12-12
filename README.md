@@ -11,3 +11,6 @@ The default demo for this PoC uses quickly transitioning colors, as such if you 
 
 # Disclaimer
 This uses a reverse engineered protocol, while it has been tested throughly, I’m not responsible for any damage this code might do to your device or computer.
+
+#Fixed
+Makefile with ARM (Mac M1)
